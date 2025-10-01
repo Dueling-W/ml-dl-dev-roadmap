@@ -78,12 +78,16 @@ gantt
     - [Vectors and Spaces](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces)
     - [Matrix Transformations](https://www.khanacademy.org/math/linear-algebra/matrix-transformations)
 
+---
+
 ### Weeks 3 and 4 All Resources
 - **Python Videos**
     - [PyTest Course](https://www.youtube.com/watch?v=cHYq1MRoyI0)
 - **Math Links**
     - [Random Variables](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library)
     - [Probability Distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
+
+---
 
 ### Week 5 and 6 All Resources
 - **Python and Theory Videos**
@@ -96,13 +100,15 @@ gantt
     - [Calculus Refresher](https://www.youtube.com/watch?v=WsQQvHm4lSw)
     - [Gradients and Directional Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives)
 
-### Week 5 and 6 All Resources
+---
+
+### Week 7 and 8 All Resources
 - **Python and Theory Videos**
     - [scikit-learn Course - Rest of Video](https://www.youtube.com/watch?v=0B5eIE_1vpU)
 - **Math Links**
     - [Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
-    - [Calculus Refresher](https://www.youtube.com/watch?v=WsQQvHm4lSw)
-    - [Gradients and Directional Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives)
+    - [Law of Large Numbers](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/law-of-large-numbers)
+    - [Sampling Distributions and Central Limit Theorem)[https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means]
 
 
 
