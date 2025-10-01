@@ -108,7 +108,7 @@ gantt
 - **Math Links**
     - [Hypothesis Testing](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
     - [Law of Large Numbers](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/expected-value-lib/v/law-of-large-numbers)
-    - [Sampling Distributions and Central Limit Theorem)[https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means]
+    - [Sampling Distributions and Central Limit Theorem](https://www.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-means)
 
 
 
