@@ -8,7 +8,7 @@ gantt
 
     %% ============================
     section Foundations
-    Python + Git Refresher    :a1, 2025-09-29, 7d
+    Python + Git Refresher    :active, a1, 2025-09-29, 7d
     Linear Algebra Basics     :a2, 2025-09-29, 7d
     Weeks 1-2 Reading            :a3, after a2, 3d
     Vector/Matrix Project + Study    :a4, after a3, 4d
